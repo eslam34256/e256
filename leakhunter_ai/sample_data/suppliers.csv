@@ -1,0 +1,13 @@
+supplier_id,supplier_name,country,declared_risk,financial_score,quality_score,delivery_score,compliance_score,cyber_reviewed
+SUP-100,Cairo Industrial Supply,Egypt,Low,95,92,94,97,Yes
+SUP-101,Nile Logistics Services,Egypt,Medium,86,89,68,91,Yes
+SUP-102,Delta IT Distribution,Egypt,Medium,90,88,84,72,Yes
+SUP-103,Alex Facilities Partners,Egypt,Low,88,94,79,89,Yes
+SUP-104,Red Sea Packaging,Egypt,High,71,78,61,67,No
+SUP-105,Prime MRO Solutions,Egypt,Medium,82,83,73,81,Yes
+SUP-106,Global Office Products,UAE,Medium,84,91,88,86,Yes
+SUP-107,Atlas Transport Group,Egypt,High,66,72,54,63,No
+SUP-108,Vertex Security Systems,Egypt,Medium,92,86,81,90,Yes
+SUP-109,Metro Catering & Services,Egypt,Low,94,90,93,95,Yes
+SUP-110,Harbor Components,Egypt,Medium,79,81,76,74,Yes
+SUP-111,Summit Cleaning Services,Egypt,Low,91,96,85,93,Yes
