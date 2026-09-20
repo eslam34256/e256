@@ -1,11 +1,11 @@
 # LeakHunter AI
 
-The maintained application is in [`leakhunter_ai/`](leakhunter_ai/README.md).
+The maintained application is in [`Saver/leakhunter_ai/`](Saver/leakhunter_ai/README.md).
 
 ## Quick start
 
 ```bash
-cd leakhunter_ai
+cd Saver/leakhunter_ai
 python -m venv .venv
 . .venv/bin/activate
 pip install -r requirements.txt
