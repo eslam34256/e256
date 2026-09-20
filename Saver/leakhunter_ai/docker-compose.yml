@@ -1,0 +1,13 @@
+services:
+  leakhunter:
+    build: .
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      - leakhunter_data:/data
+    restart: unless-stopped
+
+volumes:
+  leakhunter_data:
